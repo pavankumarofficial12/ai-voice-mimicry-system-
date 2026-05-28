@@ -1,0 +1,30 @@
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.venv/
+
+# Audio & Media Files
+outputs/
+*.wav
+*.mp3
+*.ogg
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary
+temp_*
+*.tmp
